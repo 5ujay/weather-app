@@ -32,4 +32,4 @@ To run this project locally and see the Weather Forecasting App in action, follo
    npm install
    # or
    yarn install
-4.npm run dev
+4. npm run dev
