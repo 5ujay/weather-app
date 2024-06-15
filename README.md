@@ -1,6 +1,6 @@
 # Weather Forecasting App
 
-Welcome to our Weather Forecasting App repository! 🌦️☀️
+Welcome to my Weather Forecasting App repository! 🌦️☀️
 
 ## Team Members
 - Sujay Pagam
