@@ -38,5 +38,5 @@ To run this project locally and see the Weather Forecasting App in action, follo
 
 Here is a screenshot of the Weather Forecasting App:
 
-![Weather App Screenshot](images/weather-app-one.png)
+![Weather App Screenshot](https://github.com/5ujay/weather-app/src/assets/images/weather-app-one.png)
 ![Weather App Screenshot](images/weather-app-second.png)
