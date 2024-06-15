@@ -25,11 +25,11 @@ This CSS file contains the styles specific to the WeatherApp component to ensure
 ## How to Run the Project Locally
 To run this project locally and see the Weather Forecasting App in action, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/weather-forecasting-app.git`
-2. Navigate into the project directory: `cd weather-forecasting-app`
+1. Clone this repository to your local machine using `git clone https://github.com/5ujay/weather-app.git`
+2. Navigate into the project directory: `cd weather-app`
 3. Install dependencies using npm or yarn:
    ```bash
    npm install
    # or
    yarn install
-
+4.npm run dev
